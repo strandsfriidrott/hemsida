@@ -1,0 +1,15 @@
+{
+  "name": "Strands Friidrott",
+  "projectFolder": "/home/johan/repo/strandsif/hemsida/",
+  "source": "/home/johan/repo/strandsif/hemsida/client/",
+  "preview": "/home/johan/repo/strandsif/hemsida/preview/",
+  "publish": "/home/johan/wwwpub/strandsfriidrott/",
+  "template": "/home/johan/repo/strandsif/hemsida/template.htm",
+  "pubUser": "",
+  "pubPw": "",
+  "key": "",
+  "repository": "https://github.com/strandsfriidrott/hemsida.git",
+  "repoUser": "",
+  "repoPw": "",
+  "url": "https://johan.webide.se/strandsfriidrott/"
+}
